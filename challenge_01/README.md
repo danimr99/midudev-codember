@@ -19,7 +19,7 @@ Todo está en un fichero donde los datos de usuario son una secuencia de pares `
 
 ## ***Ejemplo de input*** 🧑‍🏫
 
-```json
+```properties
 usr:@midudev eme:mi@gmail.com psw:123456 age:22 loc:bcn fll:82
 
 fll:111 eme:yrfa@gmail.com usr:@codember psw:123456 age:21 loc:World
