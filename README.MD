@@ -24,3 +24,40 @@ Consigues una puntuación dependiendo de cuánto tiempo tardas en solucionar el 
 ## ¿Cómo se gana?
 
 Todos los participantes que hayan terminado todos los retos antes del directo que haremos el 1 de diciembre, se llevarán un premio.
+
+# 🤫 Secretos
+
+<details>
+    <summary>Corrupt image</summary>
+    <code> $ say elonmusk </code>
+</details>
+
+<details>
+    <summary>Cowsay</summary>
+    <code> $ ping midu.dev </code>
+</details>
+
+<details>
+    <summary>Confetti</summary>
+    <p>Ejecutar múltiples veces <code> $ confetti</code>  hasta recibir el logro.</p>
+</details>
+
+<details>
+    <summary>Tetris</summary>
+    <code> $ play tetris </code>
+</details>
+
+<details>
+    <summary>Google "roll" easter egg.</summary>
+    <code> $ do a barrel roll </code>
+</details>
+
+<details>
+    <summary>Mail</summary>
+    <code> $ submit t8vjh832948fcnal </code>
+</details>
+
+<details>
+    <summary>Konami code.</summary>
+    <p> Pulsa arriba, arriba, abajo, abajo, izquierda, derecha, izquierda, derecha, B, A </p>
+</details>

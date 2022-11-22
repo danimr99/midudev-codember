@@ -1,4 +1,4 @@
-const { encrypted } = require('./encrypted.js');
+const { encrypted } = require('./encrypted.js')
 
 const A_LOWERCASE_ASCII_CODE = 97
 const Z_LOWERCASE_ASCII_CODE = 122
@@ -24,6 +24,6 @@ const getSolution = () => {
   })
 
   return message
-};
+}
 
-console.log(getSolution());
+console.log(getSolution())
