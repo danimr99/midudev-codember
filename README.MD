@@ -48,7 +48,7 @@ Todos los participantes que hayan terminado todos los retos antes del directo qu
 </details>
 
 <details>
-    <summary>Google "roll" easter egg.</summary>
+    <summary>Google "roll" easter egg</summary>
     <code> $ do a barrel roll </code>
 </details>
 
@@ -58,6 +58,6 @@ Todos los participantes que hayan terminado todos los retos antes del directo qu
 </details>
 
 <details>
-    <summary>Konami code.</summary>
+    <summary>Konami code</summary>
     <p> Pulsa arriba, arriba, abajo, abajo, izquierda, derecha, izquierda, derecha, B, A </p>
 </details>
