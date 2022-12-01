@@ -61,3 +61,11 @@ Todos los participantes que hayan terminado todos los retos antes del directo qu
     <summary>Konami code</summary>
     <p> Pulsa arriba, arriba, abajo, abajo, izquierda, derecha, izquierda, derecha, B, A </p>
 </details>
+
+<details>
+    <summary>NPM</summary>
+    <p>
+      En el directorio /public ejecuta el comando <code>$ npm run init</code>. Te aparecerá un acertijo. Para resolverlo introduce el comando 
+      <code>$ submit bug</code>.
+    </p>
+</details>
